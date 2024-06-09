@@ -1,0 +1,9 @@
+.git/
+.vscode/
+bin/
+obj/
+*.exe
+config.json
+omnisharp.json
+Dockerfile
+*.csproj
